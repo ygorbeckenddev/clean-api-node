@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ygorbeckenddev/clean-api-node/issues"
   },
-  "homepage": "https://github.com/ygorbeckenddev/clean-api-node#readme"
+  "homepage": "https://github.com/ygorbeckenddev/clean-api-node#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.2"
+  }
 }
